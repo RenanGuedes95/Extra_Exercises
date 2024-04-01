@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background: url('https://i.pinimg.com/736x/5c/b1/fa/5cb1fad6cee2df6780aa492b3d1144df.jpg');
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.title, .main-content{
+   background-color: #FFFF;
+   border-radius: 15px;
+   padding: 50px 40px;
+   box-shadow: 0 0 10px;
+   font-family: sans-serif;
+}
+
+.title{
+    font-size: 1.7rem;
+}
+
+.main-content{
+    width:100%;
+    height: 300px;
+    font-size:1.5rem;
+}
+
+#btn-1{
+    font-size:1.5rem;
+    background-color: black;
+    color:whitesmoke;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
