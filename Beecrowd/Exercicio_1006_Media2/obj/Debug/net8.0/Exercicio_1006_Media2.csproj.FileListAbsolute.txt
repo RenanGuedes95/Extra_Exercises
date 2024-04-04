@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\bin\Debug\net8.0\Exercicio_1006_Media2.exe
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\bin\Debug\net8.0\Exercicio_1006_Media2.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\bin\Debug\net8.0\Exercicio_1006_Media2.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\bin\Debug\net8.0\Exercicio_1006_Media2.dll
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\bin\Debug\net8.0\Exercicio_1006_Media2.pdb
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.dll
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\refint\Exercicio_1006_Media2.dll
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.pdb
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\Exercicio_1006_Media2.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercicio_1006_Media2\obj\Debug\net8.0\ref\Exercicio_1006_Media2.dll
