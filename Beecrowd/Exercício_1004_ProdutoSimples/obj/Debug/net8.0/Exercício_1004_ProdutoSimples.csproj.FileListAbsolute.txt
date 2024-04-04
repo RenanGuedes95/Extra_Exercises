@@ -1,0 +1,15 @@
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\bin\Debug\net8.0\Exercício_1004_ProdutoSimples.exe
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\bin\Debug\net8.0\Exercício_1004_ProdutoSimples.deps.json
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\bin\Debug\net8.0\Exercício_1004_ProdutoSimples.runtimeconfig.json
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\bin\Debug\net8.0\Exercício_1004_ProdutoSimples.dll
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\bin\Debug\net8.0\Exercício_1004_ProdutoSimples.pdb
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.AssemblyInfoInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.AssemblyInfo.cs
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.csproj.CoreCompileInputs.cache
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.sourcelink.json
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.dll
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\refint\Exercício_1004_ProdutoSimples.dll
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.pdb
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\Exercício_1004_ProdutoSimples.genruntimeconfig.cache
+D:\Análise e Desenvolvimento de Sistemas\Extra_Excercises\Extra_Exercises\Beecrowd\Exercício_1004_ProdutoSimples\obj\Debug\net8.0\ref\Exercício_1004_ProdutoSimples.dll
